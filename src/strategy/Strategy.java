@@ -1,2 +1,5 @@
-package strategy;public interface Strategy {
+package strategy;
+
+public interface Strategy {
+    String execute();
 }
